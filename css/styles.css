@@ -1,7 +1,7 @@
 :root {
     --web: #4d5ae5;
     --studio: #2e2f42;
-    --list: #2e2f42;
+    --studiolist: #2e2f42;
     --add: #434455;
 
     }
@@ -31,11 +31,14 @@ color: var(--studio);
 /*Nav list*/
 .list {
     list-style: none;
+}
+
+.Studiolist {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(list);
+    color: var(--studiolist);
 }
 
 /*Address*/
