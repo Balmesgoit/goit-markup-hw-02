@@ -3,13 +3,15 @@
     --Studio: #2e2f42;
     }
 
-.WebStudio {
+body {
     font-family: 'Raleway', sans-serif;
-    font-weight: 800;
+}
+
+.webstudio {
+    font-weight:800;
+    text-transform: none;
     font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;text-transform: uppercase;
-    color: var(--Web)
+    line-height: 1.17; letter-spacing: 0.03em; 
 }
 
 .Studio {
