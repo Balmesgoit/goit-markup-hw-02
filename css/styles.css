@@ -1,6 +1,6 @@
 :root {
-    --Web: #4d5ae5;
-    --Studio: #2e2f42;
+    --web: #4d5ae5;
+    --studio: #2e2f42;
     }
 
 body {
@@ -11,9 +11,12 @@ body {
     font-weight:800;
     text-decoration: none;
     font-size: 18px;
-    line-height: 1.17; letter-spacing: 0.03em; 
+    line-height: 1.17; letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--web);
+
 }
 
 .Studio {
-color: var(--Studio)
+color: var(--studio)
 }
