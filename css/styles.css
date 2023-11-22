@@ -4,11 +4,10 @@
     --studiolist: #2e2f42;
     --add: #434455;
     --bodybc: #FFFFFF;
-}
+    font-family: Roboto, sans-serif;
+    color: #434455;
 
-
-
-
+   
 }
 
 .webstudio {
