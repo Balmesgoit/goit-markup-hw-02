@@ -4,14 +4,11 @@
     --studiolist: #2e2f42;
     --add: #434455;
     --bodybc: #FFFFFF;
-    font-family: Roboto, sans-serif;
-    color: #434455;
-
-   
 }
 
+/*WebStudio Logo*/
 .webstudio {
-    font-family: 'Raleway', sans-serif;
+    font-family: Raleway, sans-serif;
     font-weight:800;
     text-transform: uppercase;
     font-size: 18px;
@@ -24,23 +21,37 @@
     
 }
 
-
 .studio {
 color: var(--studio);
 }
 
 /*Nav list*/
-.list {
-    list-style: none;
-}
 
-.studiolist {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(--studiolist);
-}
+    /*Ul*/
+    .ulheader{
+        list-style: none;
+    }
+
+    .ulheader .alistudio {
+        color: var(--studio);
+    }
+
+    .ulheader .aliststudio:hover {
+        color: #404bbf;
+    }
+
+    /*1List-Studio*/
+    .aliststudio {
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        
+    }
+
+    
+
+
 
 /*Address*/
 .address {
