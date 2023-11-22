@@ -28,18 +28,7 @@ color: var(--studio);
 /*Nav list*/
 
     /*Ul*/
-    .ulheader{
-        list-style: none;
-    }
-
-    .ulheader .alistudio {
-        color: var(--studio);
-    }
-
-    .ulheader .aliststudio:hover {
-        color: #404bbf;
-    }
-
+  
     /*1List-Studio*/
     .aliststudio {
         font-weight: 500;
