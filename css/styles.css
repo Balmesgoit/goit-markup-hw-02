@@ -16,6 +16,9 @@ body {
     background-color: var(--bodybc);
 }
 
+ul [list-style-property: none;
+]
+
 
 /*WebStudio Logo*/
 .webstudio {
