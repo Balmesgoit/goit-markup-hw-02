@@ -74,7 +74,7 @@ color: #ffffff;
 
 /*Hero Button*/
 
-button [
+.herobutton [
 background-color: #4D5AE5;
 font-weight: 500
 font-size: 16px
