@@ -39,20 +39,35 @@ color: var(--studio);
 }
 
 /*Nav list*/
-.ullist {
+ul {
     list-style: none;
 }
 
     /*Ul*/
   
     /*1List-Studio*/
-    .aliststudio {
+    .ullist a {
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: var(--studio)
+        color: var(--studio);
+        
     }
+
+    .aliststudio a {
+        text-decoration: none;
+    }
+
+    .aliststudio:hover {
+        color: #404bbf;
+    }
+
+    .aliststudio:focus {
+        color: #404bbf;
+    }
+
+
 
 
 /*Address*/
