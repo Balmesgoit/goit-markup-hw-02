@@ -16,8 +16,9 @@ body {
     background-color: var(--bodybc);
 }
 
-ul [list-style-property: none;
-]
+ul {
+    list-style:none
+}
 
 
 /*WebStudio Logo*/
@@ -28,6 +29,7 @@ ul [list-style-property: none;
     line-height: 1.17; letter-spacing: 0.03em;
     color: var(--web);
 }
+
 
 
 .studio {
