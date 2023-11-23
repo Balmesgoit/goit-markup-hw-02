@@ -26,6 +26,9 @@ color: var(--studio);
 }
 
 /*Nav list*/
+.navlist {
+    list-style: none;
+}
 
     /*Ul*/
   
