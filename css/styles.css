@@ -6,11 +6,11 @@
     --bodybc: #FFFFFF;
 }
 
-.a {
+a {
     text-decoration: none;
 }
 
-.body {
+body {
     font-family: Roboto, sans-serif;
     color: #434455;
     background-color: var(--bodybc);
