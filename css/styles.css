@@ -19,11 +19,6 @@ body {
 /*header*/
 .navdefault {
     list-style: none
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(--studio);
 }
 
 /*WebStudio Logo*/
@@ -39,25 +34,20 @@ body {
 
 
 
-.studio {
-color: var(--studio);
+.headerstudio {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--studio);
 }
 
-/*Nav list*/
 
-    /*Ul*/
-  
-    /*1List-Studio*/
-    
-    .aliststudio a {
-        text-decoration: none;
-    }
-
-    .aliststudio:hover {
+.headerstudio:hover {
         color: #404bbf;
     }
 
-    .aliststudio:focus {
+.headerstudio:focus {
         color: #404bbf;
     }
 
