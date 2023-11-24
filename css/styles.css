@@ -17,8 +17,13 @@ body {
 }
 
 /*header*/
-ul .list {
+.navdefault {
     list-style: none
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--studio);
 }
 
 /*WebStudio Logo*/
@@ -43,15 +48,7 @@ color: var(--studio);
     /*Ul*/
   
     /*1List-Studio*/
-    .ullist a {
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: var(--studio);
-        
-    }
-
+    
     .aliststudio a {
         text-decoration: none;
     }
