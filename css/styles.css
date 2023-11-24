@@ -16,11 +16,6 @@ body {
     background-color: var(--bodybc);
 }
 
-ul {
-    list-style:none
-}
-
-
 /*WebStudio Logo*/
 .webstudio {
     font-family: Roboto, sans-serif;
@@ -39,7 +34,7 @@ color: var(--studio);
 }
 
 /*Nav list*/
-ul {
+.ul {
     list-style: none;
 }
 
