@@ -39,9 +39,6 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-}
-
-.studiocolor {
     color: var(--studio);
 }
 
@@ -52,6 +49,22 @@ body {
 .studiocolor:focus {
         color: #404bbf;
 }
+/*Section 1*/
+.hero {
+    background-color: var(--studio);
+}
+
+.hone {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+.herobutton {
+
+}
+
 
 /*Section 3*/
 .thirdsecheader {
