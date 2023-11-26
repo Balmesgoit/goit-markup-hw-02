@@ -56,7 +56,11 @@ body {
     color: var(--add);
 }
 
-/*Section 1*/
+/*Sections*/
+
+/*1st Section*/
+
+/*Hero*/
 .hero {
     background-color: var(--studio);
 }
@@ -122,18 +126,6 @@ cursor property: pointer
 }
 
 
-/*Sections*/
-
-/*1st Section*/
-
-/*Hero*/
-.hero [
-background-color: var(--studio);
-font-size: 56px;
-line-height: 1.07;
-text-align: center;
-letter-spacing: 0.02em;
-color: #ffffff;
 
 /*Hero Button*/
 
