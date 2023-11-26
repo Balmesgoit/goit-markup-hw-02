@@ -16,7 +16,7 @@ body {
     background-color: var(--bodybc);
 }
 
-/*header*/
+/*HEADER*/
 .liststyle {
     list-style: none;
 }
@@ -49,6 +49,13 @@ body {
 .studiocolor:focus {
         color: #404bbf;
 }
+
+/*Address*/
+.address {
+    font-style: normal;
+    color: var(--add);
+}
+
 /*Section 1*/
 .hero {
     background-color: var(--studio);
@@ -69,7 +76,6 @@ body {
     letter-spacing: 0.04em;
     color: #ffffff;
 }
-
 
 background color: hover : #404BBF
 
@@ -123,11 +129,6 @@ cursor property: pointer
     }
 
 
-/*Address*/
-.address {
-    font-style: normal;
-    color: var(--add);
-}
 
 /*Sections*/
 
