@@ -47,7 +47,10 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #2e2f42;
 }
+
+
 
 .list {
     list-style-type:none;
@@ -66,9 +69,16 @@ body {
 }
 
 /*Address*/
-.address {
+.adstyle {
     font-style: normal;
     color: var(--add);
+}
+
+.address {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 
 /*Sections*/
