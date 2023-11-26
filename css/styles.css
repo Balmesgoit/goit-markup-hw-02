@@ -56,15 +56,11 @@ body {
     list-style-type:none;
 }
 
-.headerlink {
-    color: var(--studio);
-}
-
-.headerlink:hover {
+.headerstudio:hover {
         color: #404bbf;
 }
 
-.headerlink:focus {
+.headerstudio:focus {
         color: #404bbf;
 }
 
